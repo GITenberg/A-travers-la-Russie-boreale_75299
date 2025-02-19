@@ -1,0 +1,36 @@
+_repo: A-travers-la-Russie-boreale_75299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rabot, Charles
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '51300'
+    url: http://www.gutenberg.org/2009/agents/51300
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_Rabot
+    - https://fr.wikipedia.org/wiki/Charles_Rabot
+description: ''
+gutenberg_issued: '2025-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75299'
+  lccn: ltf90034075
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044085356590
+pgterms:marc905: 20230410014345rabot
+pgterms:marc906: '1894'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Pierre Lacaze and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bHachette, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia, Northern -- Description and travel'
+- !lcc 'DK'
+- GITenberg
+title: A travers la Russie boréale
+url: http://www.gutenberg.org/ebooks/75299
